@@ -8,7 +8,7 @@
         "CLICK": "1",
         "TIME": "30"
       },
-      "id": {
+      "ID": {
         "BANNER": "ca-app-pub-4147318641606231/2839583236",
         "INTERSTITIALAD": "ca-app-pub-4147318641606231/4891031509"
       }
