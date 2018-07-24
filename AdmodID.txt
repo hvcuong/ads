@@ -1,0 +1,14 @@
+{
+  "SPINADR": {
+    "admod": {
+      "setting": {
+        "countdie": "1",
+        "scoredie": "100"
+      },
+      "id": {
+        "banner": "ca-app-pub-6190532367875222/3329945597",
+        "fullbanner": "ca-app-pub-6190532367875222/4806678792"
+      }
+    }
+  }
+}
