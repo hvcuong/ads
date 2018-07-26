@@ -3,11 +3,11 @@
     "ADMOD": {
       "SETTING": {
         "DIE": "1",
-        "WIN": "1",
-        "BACK": "1",
-        "CLICK": "1",
+        "WIN": "0",
+        "BACK": "0",
+        "CLICK": "0",
         "TIME": "20",
-        "BANNER": "1"
+        "BANNER": "0"
       },
       "ID": {
         "BANNER": "ca-app-pub-4147318641606231/2839583236",
