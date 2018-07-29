@@ -14,5 +14,21 @@
         "INTERSTITIALAD": "ca-app-pub-4147318641606231/4891031509"
       }
     }
+  },
+  "DOMINOIOS": {
+    "ADMOD": {
+      "SETTING": {
+        "DIE": "1",
+        "WIN": "1",
+        "BACK": "1",
+        "CLICK": "1",
+        "TIME": "20",
+        "BANNER": "1"
+      },
+      "ID": {
+        "BANNER": "ca-app-pub-4147318641606231/8028625888",
+        "INTERSTITIALAD": "ca-app-pub-4147318641606231/1262130885"
+      }
+    }
   }
 }
