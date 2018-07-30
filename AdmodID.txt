@@ -34,7 +34,8 @@
   "ADVENTURE": {
     "ADMOD": {
       "SETTING": {
-        "TIME": "20"
+        "TIME": "20",
+        "UAD": "0"
       },
       "ID": {
         "BANNER": "ca-app-pub-4147318641606231/4563969691",
