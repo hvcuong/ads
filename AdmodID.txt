@@ -22,12 +22,23 @@
         "WIN": "1",
         "BACK": "1",
         "CLICK": "1",
-        "TIME": "30",
+        "TIME": "20",
         "BANNER": "1"
       },
       "ID": {
         "BANNER": "ca-app-pub-4147318641606231/8028625888",
         "INTERSTITIALAD": "ca-app-pub-4147318641606231/1262130885"
+      }
+    }
+  },
+  "ADVENTURE": {
+    "ADMOD": {
+      "SETTING": {
+        "TIME": "20"
+      },
+      "ID": {
+        "BANNER": "ca-app-pub-4147318641606231/4563969691",
+        "INTERSTITIALAD": "ca-app-pub-4147318641606231/5292520015"
       }
     }
   }
