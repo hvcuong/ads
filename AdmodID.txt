@@ -42,5 +42,19 @@
         "INTERSTITIALAD": "ca-app-pub-4147318641606231/5292520015"
       }
     }
+  },
+  "SUBWAY": {
+    "ADMOD": {
+      "SETTING": {
+        "countshow": "1",
+        "showbanneronplay": "1",
+        "showfullonbacktomain": "1",
+        "showfullonopengame": "0"
+      },
+      "ID": {
+        "BANNER": "ca-app-pub-4147318641606231/2891757383",
+        "INTERSTITIALAD": "ca-app-pub-4147318641606231/7760940680"
+      }
+    }
   }
 }
