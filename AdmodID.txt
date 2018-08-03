@@ -49,11 +49,12 @@
         "countshow": "1",
         "showbanneronplay": "1",
         "showfullonbacktomain": "1",
-        "showfullonopengame": "0"
+        "showfullonopengame": "0",
+        "time": "35"
       },
       "ID": {
-        "BANNER": "ca-app-pub-4147318641606231/2891757383",
-        "INTERSTITIALAD": "ca-app-pub-4147318641606231/7760940680"
+        "BANNER": "ca-app-pub-6190532367875222/1439515859",
+        "INTERSTITIALAD": "ca-app-pub-6190532367875222/6181115766"
       }
     }
   }
