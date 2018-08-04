@@ -50,7 +50,7 @@
         "showbanneronplay": "1",
         "showfullonbacktomain": "1",
         "showfullonopengame": "0",
-        "time": "35"
+        "time": "10"
       },
       "ID": {
         "BANNER": "ca-app-pub-6190532367875222/1439515859",
