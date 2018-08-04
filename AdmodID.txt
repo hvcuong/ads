@@ -54,7 +54,7 @@
       },
       "ID": {
         "BANNER": "ca-app-pub-6190532367875222/1439515859",
-        "INTERSTITIALAD": ""
+        "INTERSTITIALAD": "ca-app-pub-6190532367875222/6181115766"
       }
     }
   }
