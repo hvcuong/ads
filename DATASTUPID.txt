@@ -8,7 +8,7 @@
         "TIME": "20"
       }
     },
-    "ISLOAD": "0"
+    "ISLOAD": "1"
   },
   "MAIN": {
     "ISLOAD": "1",
