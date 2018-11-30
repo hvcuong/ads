@@ -8,10 +8,10 @@
         "TIME": "20"
       }
     },
-    "ISLOAD": "1"
+    "ISLOAD": "0"
   },
   "MAIN": {
-    "ISLOAD": "1",
-    "LEVEL": "1"
+    "ISLOAD": "0",
+    "LEVEL": "0"
   }
 }
