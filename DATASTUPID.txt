@@ -1,0 +1,19 @@
+{
+  "ADMOD": {
+    "DATA": {
+      "SETTING": {
+        "DIE": "1",
+        "WIN": "1",
+        "BACK": "1",
+        "CLICK": "1",
+        "TIME": "20",
+        "BANNER": "1"
+      }
+    },
+    "ISLOAD": "0"
+  },
+  "MAIN": {
+    "ISLOAD": "0",
+    "LEVEL": "0"
+  }
+}
