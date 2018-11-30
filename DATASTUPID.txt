@@ -5,9 +5,7 @@
         "DIE": "1",
         "WIN": "1",
         "BACK": "1",
-        "CLICK": "1",
-        "TIME": "20",
-        "BANNER": "1"
+        "TIME": "20"
       }
     },
     "ISLOAD": "0"
