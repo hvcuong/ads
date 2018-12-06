@@ -2,16 +2,16 @@
   "ADMOD": {
     "DATA": {
       "SETTING": {
-        "DIE": "1",
-        "WIN": "1",
+        "DIE": "2",
+        "WIN": "2",
         "BACK": "1",
-        "TIME": "20"
+        "TIME": "15"
       }
     },
-    "ISLOAD": "0"
+    "ISLOAD": "1"
   },
   "MAIN": {
-    "ISLOAD": "0",
-    "LEVEL": "0"
+    "ISLOAD": "1",
+    "LEVEL": "1"
   }
 }
