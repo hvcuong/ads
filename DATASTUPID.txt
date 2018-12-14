@@ -13,5 +13,6 @@
   "MAIN": {
     "ISLOAD": "1",
     "LEVEL": "1"
-  }
+  },
+  "TESTER": "0"
 }
