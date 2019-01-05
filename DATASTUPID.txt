@@ -13,7 +13,7 @@
   "MAIN": {
     "ISLOAD": "1",
     "LEVEL": "1",
-    "BTNVIDEO": "0"
+    "BTNVIDEO": "1"
   },
-  "TESTER": "1"
+  "TESTER": "0"
 }
