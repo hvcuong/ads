@@ -12,7 +12,8 @@
   },
   "MAIN": {
     "ISLOAD": "1",
-    "LEVEL": "1"
+    "LEVEL": "1",
+    "BTNVIDEO": "0"
   },
   "TESTER": "1"
 }
