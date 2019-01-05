@@ -5,7 +5,7 @@
         "DIE": "2",
         "WIN": "2",
         "BACK": "1",
-        "TIME": "15"
+        "TIME": "100"
       }
     },
     "ISLOAD": "1"
@@ -15,5 +15,5 @@
     "LEVEL": "1",
     "BTNVIDEO": "1"
   },
-  "TESTER": "0"
+  "TESTER": "1"
 }
